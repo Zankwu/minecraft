@@ -1,0 +1,17 @@
+{
+	id: "4a272a85-8faf-4b4f-82fe-5699513e0133"
+	type: "player"
+	player_name: "Winter2470"
+	ranks: {
+		4a272a85-8faf-4b4f-82fe-5699513e0133: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Winter2470"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59DC"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
